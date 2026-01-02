@@ -1,0 +1,1 @@
+Create a Band Name Generator, using user input to ask which city they grew up in and a pet's name before putting these both together to form a Band Name.
