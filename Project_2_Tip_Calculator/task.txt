@@ -1,0 +1,4 @@
+Create a tip calculator.
+1. Ask for the total bill
+2. Ask how many to split between
+3. Give what each has to pay
