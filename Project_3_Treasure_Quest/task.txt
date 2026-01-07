@@ -1,0 +1,23 @@
+Mini Task
+ Python Pizza
+
+ Based on the user's order, calculate the bill. 
+
+ Small pizza (S): $15
+ Medium pizza (M): $20
+ Large pizza (L): $25
+
+ Add Pepperoni to small pizza: +$2
+ Add Pepperoni to medium or large pizza: +$3
+
+ Add extra cheese: +$1
+
+
+Main - Treasure Island
+Welcome to Treasure Island
+     |     
+Left or Right - Right -> Game Over
+     |     
+Swim or Wait? - Wait -> Game Over
+     |     
+Which door? - Right -> Game Over
