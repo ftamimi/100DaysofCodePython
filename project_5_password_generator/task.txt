@@ -1,0 +1,8 @@
+Create a password generator
+Welcome to the PyPassword Generator!
+How many letters would you like in the password?
+How many symbols would you like?
+How many numbers would you like?
+then print a list with random numbers,
+print again jumbled up
+Your password is: xxxxxxx
